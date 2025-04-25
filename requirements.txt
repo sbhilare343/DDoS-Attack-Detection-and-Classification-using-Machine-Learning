@@ -10,3 +10,4 @@ joblib
 jupyter
 notebook
 virtualenv
+torch
