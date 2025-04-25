@@ -15,7 +15,7 @@ This project implements a Machine Learning-based system for detecting and mitiga
 - **Machine Learning:** Random Forest, DQN (Deep Q-Network)
 - **Libraries:** Scikit-learn, TensorFlow, Keras, Pandas, NumPy
 - **Traffic Analysis:** SIEM, Feature Engineering
-- **Environment:** Ubuntu 20.04+, Python 3.8+, VirtualBox, OpenFlow (SDN)
+- **Environment:** WSL, Python 3.8+, Wireshark
 
 ## 🚀 Getting Started
 
