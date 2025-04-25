@@ -13,7 +13,7 @@ This project implements a Machine Learning-based system for detecting and mitiga
 ## 🛠️ Technologies & Tools
 
 - **Machine Learning:** Random Forest, DQN (Deep Q-Network)
-- **Libraries:** Scikit-learn, TensorFlow, Keras, Pandas, NumPy
+- **Libraries:** Scikit-learn, TensorFlow, Keras, Pandas, NumPy, seaborn, torch, gym
 - **Traffic Analysis:** SIEM, Feature Engineering
 - **Environment:** WSL, Python 3.8+, Wireshark
 
